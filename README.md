@@ -13,3 +13,6 @@ f нумер
 - [ ]  крест
 - [x] галка
 * да
+I <https://www.roblox.com/>
+II [не советую](url "https://www.roblox.com/")
+III [успех тут][url-https://www.roblox.com/]
