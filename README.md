@@ -16,6 +16,6 @@ f нумер
 * 
 I <https://www.roblox.com/>
 
-II [не советую]("https://www.roblox.com/")
+II [не советую](url "https://www.roblox.com/")
 
-III [успех тут][-https://www.roblox.com/]
+III [успех тут][url https://www.roblox.com/]
