@@ -21,3 +21,5 @@ II [не советую](url "https://www.roblox.com/")
 III [успех тут][url1]
 
 [url1]: https://www.roblox.com/ "роблакс"
+
+![я дотер](https://www.dota2.com/home "да")
