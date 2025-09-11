@@ -22,4 +22,4 @@ III [успех тут][url1]
 
 [url1]: https://www.roblox.com/ "роблакс"
 
-![я дотер](https://www.dota2.com/home "да")
+![я дотер](url-https://www.dota2.com/home?l=russian "да")
