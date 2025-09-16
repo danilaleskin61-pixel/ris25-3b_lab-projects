@@ -1,4 +1,4 @@
-# ris25-3b_lab-projects
+# ris25-3b_lab-projects-Aleshkin
 # *Я будущий программист Данил*
 
 ## Сегодня получилось создать файл readme ##
